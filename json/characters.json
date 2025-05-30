@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Doraemon",
+        "age":25,
+        "nationality":"Japan"
+    },
+    {
+        "name":"Nobita",
+        "age":15,
+        "nationality":"Japan"
+    },
+    {
+        "name":"Uzumaki Naruto",
+        "age":15,
+        "nationality":"Japan"
+    }
+]
